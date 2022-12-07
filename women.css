@@ -1,0 +1,93 @@
+
+#home{
+    content: "";
+    position: absolute;
+    background: url("PICS/bk4.jpg") no-repeat center center/cover;
+    height: 100%;
+    width: 99%;
+    z-index: -1;
+    opacity: 1;
+    overflow-y: hidden;
+}
+.men{
+    text-align: center;
+    font-style: oblique;
+    color: wheat;
+}
+
+.pic{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    
+    border: 2PX solid black;
+}
+.name{
+    margin-left: 140px;
+    font-style: oblique;
+    color: wheat;   
+    text-decoration: none;
+    position: relative;
+    
+
+}
+
+
+.pic1{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 350px;
+    bottom: 250px;
+    border: 2PX solid black;
+}
+.name1{
+    margin-left: 140px;
+    font-style: oblique;
+    color: wheat;   
+    text-decoration: none;
+    position: relative;
+    left: 360px;
+    bottom: 250px;
+}
+
+.pic2{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 700px;
+    bottom: 530px;
+
+    border: 2PX solid black;
+}
+.name2{
+    margin-left: 140px;
+    font-style: oblique;
+    color: wheat;   
+    text-decoration: none;
+    position: relative;
+    left: 710px;
+    bottom: 505px;
+}
+
+.pic3{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 1000px;
+    bottom: 800px;
+    border: 2PX solid black;
+}
+.name3{
+    margin-left: 140px;
+    font-style: oblique;
+    color: wheat;   
+    text-decoration: none;
+    position: relative;
+    left: 1000px;
+    bottom: 800px;
+}
