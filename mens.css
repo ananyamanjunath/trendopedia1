@@ -1,0 +1,87 @@
+
+#home{
+    content: "";
+    position: absolute;
+    background: url("bk1.jpg") no-repeat center center/cover;
+    height: 100%;
+    width: 99%;
+    z-index: -1;
+    opacity: 1;
+    overflow-y: hidden;
+}
+.men{
+    text-align: center;
+    font-style: oblique;
+    color: wheat;
+}
+
+.pic{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+}
+.name{
+    margin-left: 140px;
+    font-style: oblique;
+    color: beige;   
+    text-decoration: none;
+    position: relative;
+    top: 50px;
+}
+
+
+.pic1{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 350px;
+    bottom: 278px;
+}
+.name1{
+    margin-left: 140px;
+    font-style: oblique;
+    color: beige;   
+    text-decoration: none;
+    position: relative;
+    left: 360px;
+    bottom: 278px;
+}
+
+.pic2{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 700px;
+    bottom: 605px;
+}
+.name2{
+    margin-left: 140px;
+    font-style: oblique;
+    color: beige;   
+    text-decoration: none;
+    position: relative;
+    left: 710px;
+    bottom: 605px;
+}
+
+.pic3{
+    margin-left: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 1000px;
+    bottom: 930px;
+}
+.name3{
+    margin-left: 140px;
+    font-style: oblique;
+    color: beige;   
+    text-decoration: none;
+    position: relative;
+    left: 1000px;
+    bottom: 930px;
+}
